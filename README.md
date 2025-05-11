@@ -2,7 +2,7 @@
 
 [Zhidong Zhu](https://scholar.google.com/citations?user=gMoJbSsAAAAJ&hl=zh-CN), Bangshu Xiong, [Zhibo Rao](https://scholar.google.com/citations?user=36YvjLAAAAAJ&hl=zh-CN), Jinhao Zhu, Qiaofeng Ou, Lei Yu, [Xing Li](https://scholar.google.com/citations?user=8IcXm6AAAAAJ&hl=zh-CN)
 
-The paper is currently under review on Expert Systems with Applications.
+The paper is currently under review on Applied Intelligence.
 
 ## Data Download and Preparation
 
